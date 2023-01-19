@@ -1,0 +1,7 @@
+resume.form:
+ path: '/custom/Form'
+ defaults:
+   _title: 'Application form'
+   _form: 'C:\testdrupal\web\modules\custom\Form\ResumeForm'
+ requirements:
+   _permission: 'access content'
